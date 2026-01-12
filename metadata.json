@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Financeiro Master - Controle de Despesas",
+  "description": "Um aplicativo completo de controle de despesas e rendas extras com relatórios visuais, insights de IA e gestão financeira inteligente.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
